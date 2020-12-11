@@ -68,8 +68,9 @@ dist
 .cache
 
 # cypress videos & screenshots
-cypress/videos
-cypress/screenshots
+cypress
 
-final/
-solutions/
+
+# others
+final
+solutions
